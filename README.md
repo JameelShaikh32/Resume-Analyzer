@@ -40,10 +40,10 @@
 
 ## User side
 
-<img src="https://github.com/JameelShaikh32/Resume_Analyzer/blob/master/admin-page.png">
+<img src="normal_user-page.jpg">
 
 ## Admin Side
 
-<img src="https://github.com/JameelShaikh32/Resume_Analyzer/blob/master/normal_user-page.png">
+<img src="admin-page.jpg">
 
 ## Just follow☝️ me and Star⭐ my repository
