@@ -3,7 +3,7 @@ youtube_dl
 git+https://github.com/ytdl-org/youtube-dl.git@master#egg=youtube_dl
 streamlit
 pandas
-git+https://github.com/JameelShaikh32/Pafy
+git+https://github.com/Cupcakus/pafy
 plotly
 pymysql
 streamlit-tags
