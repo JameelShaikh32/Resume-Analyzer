@@ -1,0 +1,12 @@
+pdfminer3
+pip install git+https://github.com/ytdl-org/youtube-dl.git@master#egg=youtube_dl
+streamlit
+pandas
+git+https://github.com/JameelShaikh32/Pafy
+plotly
+pymysql
+streamlit-tags
+Pillow
+nltk
+pyresparser
+spacy==2.3.5
